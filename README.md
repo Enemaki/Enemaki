@@ -10,7 +10,7 @@ An aspiring software engineer from Nigeria
 🛠 Skills
 Javascript, HTML, CSS...
 
-Python, Java and C programming
+Python, Java, C programming and Python Django framework
 
 Other Common Github Profile Sections
 👦 I'm currently working on django projects
