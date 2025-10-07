@@ -21,7 +21,7 @@ Recent Projects
 Some of the projects I have worked on include:
 1. I worked on an Islamic learning site during my internship at E-Academy. There I worked with a dynamic team and contributed to to the development and maintenance of web applications, implementing both frontend and backend features using modern technologies (https://ebaad.org/)
 
-2. I've also worked on a cover letter generator app which uses google generative AI to generate job specific cover letters (https://my-portfolio-pied-five-97.vercel.app/)
+2. I've also worked on a cover letter generator app which uses google generative AI to generate job specific cover letters (https://ai-cover-generator-frontend.vercel.app/)
 
 Other Common Github Profile Sections
 👦 I currently specialize in web development using nextjs and django rest framework
